@@ -1,1 +1,3 @@
-# Open-Source-Lab-Assignment-1.1
+# Open-Source-Lab
+Lab-1
+Topic Coverage
